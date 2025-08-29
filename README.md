@@ -1,7 +1,7 @@
 # GROK-Memory
 # 2D Three-Body Problem Simulation  
 **Author:** jazzin  
-**Project:** Qquarts · PHAM · PlanariaLab  
+**Project:** Qquarts co.
 
 ---
 
